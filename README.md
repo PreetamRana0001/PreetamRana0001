@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetam Rana</h1>
 <h3 align="center">"Data Analyst | Insights that Drive Decisions"</h3>
 
-<img align= “right” alt=”coding” width= “400” src = https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align= “right” alt=”coding” width= “400” src =https://github.com/PreetamRana0001/PreetamRana0001/blob/main/original-5556a4747a42101e13106b2bc755eb96.gif>
 
 - 🔭 Currently learning data analysis **with Python, SQL, Power BI, and Excel to build strong analytical skills.**
 
